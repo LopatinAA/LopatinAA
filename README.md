@@ -2,8 +2,8 @@
 Изучаю React  
 Мой первый проект: [todoList](https://github.com/LopatinAA/todoList)  
 Контакты:  
-&emsp telegram @andreyLptn  
-&emsp email lopatkin.andrushka@yandex.ru
+&emsp; telegram @andreyLptn  
+&emsp; email lopatkin.andrushka@yandex.ru
 
 <!--
 **LopatinAA/LopatinAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
