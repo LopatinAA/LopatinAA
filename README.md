@@ -1,4 +1,4 @@
-Привет, меня зовут Андрей, я начинающий Frontend Developer
+Привет, меня зовут Андрей, я начинающий Frontend Developer  
 Изучаю React
 Мой первый проект: [todoList](https://github.com/LopatinAA/todoList)
 Контакты:
