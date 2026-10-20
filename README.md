@@ -1,21 +1,16 @@
-Привет, меня зовут Андрей, я начинающий Frontend Developer  
-Изучаю React  
-Мой первый проект: [todoList](https://github.com/LopatinAA/todoList)  
-Контакты:  
-&emsp; telegram @andreyLptn  
-&emsp; email lopatkin.andrushka@yandex.ru
+# Привет, меня зовут Андрей 👋
 
-<!--
-**LopatinAA/LopatinAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Frontend Developer. Сейчас активно изучаю **React** и современные инструменты веб-разработки.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Мой стек
+- **Frontend:** JavaScript, React, HTML, CSS
+- **Инструменты:** Vite, Git, npm
+
+### 📁 Мои проекты
+- **[TodoList](https://github.com/LopatinAA/todoList)** — учебный проект для планирования задач. Демонстрирует работу с React, состоянием компонентов и локальным API (json-server).
+
+### 📫 Как со мной связаться
+- **Telegram:** [@andreyLptn](https://t.me/andreyLptn)
+- **Email:** [lopatkin.andrushka@yandex.ru](mailto:lopatkin.andrushka@yandex.ru)
